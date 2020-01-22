@@ -168,6 +168,10 @@ function print(i)
                              arr.splice(index,1); 
                              
                              targetparent.parentNode.removeChild(targetparent);
+
+                             qty.splice(index,1);
+                             var a1= document.getElementById("cart"+index);
+                             a1.parentNode.removeChild(a1);
                              delocal();
                              localStorage.setItem("key",JSON.stringify(arr));
 
@@ -321,6 +325,7 @@ function addtocart(index)
 
     var big=document.createElement("div");
     big.setAttribute("class","row");
+    big.setAttribute("id","cart"+index);
 
         var x=document.createElement("div");
         x.setAttribute("class","col-sm-8");
