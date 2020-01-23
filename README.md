@@ -1,4 +1,4 @@
 # repo
-ds-basics of stacks, queues, linkedlist
-web-product-basic website using dom manipulation.
-algo-basic algorithms
+DS-basics of stacks, queues, linkedlist
+WEB-product-basic website using dom manipulation.
+ALGO-basic algorithms
