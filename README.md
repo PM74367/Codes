@@ -1,8 +1,4 @@
 # repo
-ds
-  stacks-using array,using linkedlist
-  queue-simple,circular,deque
-  linkedlist-simple,circular,doubly(insertion and deletion)
-  
-web
-  product-basic website using dom manipulation.
+ds-basics of stacks, queues, linkedlist
+web-product-basic website using dom manipulation.
+algo-basic algorithms
