@@ -1,6 +1,6 @@
 #
-DS-basics of stacks, queues, linkedlist
+ds-basics of stacks, queues, linkedlist
 #
-WEB-product-basic website using dom manipulation.
+web-product-basic website using dom manipulation.
 #
-ALGO-basic algorithms
+algo-basic algorithms
