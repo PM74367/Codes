@@ -1,6 +1,6 @@
 # ds
 basics of stacks, queues, linkedlist
 # web
-product-basic website using dom manipulation.
+notes storing webpage with login & signup page using MEAN stack
 # algo
 basic algorithms
